@@ -1,1 +1,1 @@
-web: npm rum start:prod
+web: npm run start:prod
